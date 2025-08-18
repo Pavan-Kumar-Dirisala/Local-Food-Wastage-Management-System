@@ -9,7 +9,7 @@ An interactive **Streamlit dashboard** powered by **Python & SQLite**, designed 
 ##  ​ Live Application
 
 Click here to access the live app:  
-[https://your-streamlit-app-link](https://your-streamlit-app-link)
+[Live Link](https://local-food-wastage-management-system-pm.streamlit.app)
 
 ---
 
