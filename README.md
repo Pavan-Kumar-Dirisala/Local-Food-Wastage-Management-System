@@ -129,7 +129,7 @@ AI & ML Enthusiast passionate about building socially responsible technology.
 
 - GitHub: [Pavan-Kumar-Dirisala](https://github.com/Pavan-Kumar-Dirisala)  
 - Email: dirisalapavankumar12@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-dirisala-523611281/)  
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pavan-kumar-dirisala-523611281/)  
 
 
 
