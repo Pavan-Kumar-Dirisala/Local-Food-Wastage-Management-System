@@ -5,7 +5,6 @@
 ![SQLite](https://img.shields.io/badge/Database-SQLite-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-# ​​ Local Food Wastage Management System
 
 An interactive **Streamlit dashboard** powered by **Python & SQLite**, designed to minimize food wastage by efficiently connecting surplus food providers with receivers in need. The system offers data-driven insights, streamlined claims management, and seamless redistribution.
 
