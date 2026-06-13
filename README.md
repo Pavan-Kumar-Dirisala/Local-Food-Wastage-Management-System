@@ -1,4 +1,9 @@
+# 🍱 Local Food Wastage Management System
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # ​​ Local Food Wastage Management System
 
